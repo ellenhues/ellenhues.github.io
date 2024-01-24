@@ -26,7 +26,7 @@
     },
     {
       "name": "Software tools",
-      "keywords": [ "LaTex", "MATLAB", "Git/GitHub", "g++", "Excel" ]
+      "keywords": [ "LaTex", "MATLAB", "Git/GitHub", "Excel" ]
     }
   ],
   "education": [
@@ -84,10 +84,9 @@
       "position": "Co-President",
       "startDate": "2023-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Undergraduate math club",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Organized events and meetings",
       ]
     },
     {
