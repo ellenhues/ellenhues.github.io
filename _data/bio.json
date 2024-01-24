@@ -10,8 +10,6 @@
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
@@ -61,10 +59,10 @@
       "website": "",
       "startDate": "2024-06",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Student assistant in the daily operations of Research Information Services",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assisted in cross checking item lists in the East West Center library and Alma catalog and removed books from the collection. Shelved books and filed library materials.",
+        "Created a digital finding guide for the Arts Program Archive. Prepared collections to be archived."
       ]
     },
     {
