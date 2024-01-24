@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/ellenhues.png",
     "email": "ellen84@hawaii.edu",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://ellenhues.github.io",
     "summary": "I am studying for a B.S. in Mathematics in the Mathematics Department at the University of Hawaii. I expect to graduate in Summer, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
@@ -32,11 +32,14 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Summer, 2024)",
+      "area": "Mathematics (expected Summer, 2024)",
       "studyType": "B.S.",
+      "area": "Information Computer Science (expected Summer, 2024)",
+      "studyType": "Minor",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
+      ]
       ]
     }
   ],
