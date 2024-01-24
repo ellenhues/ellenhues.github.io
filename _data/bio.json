@@ -57,7 +57,7 @@
       "company": "East-West Center",
       "position": "Student Assistant",
       "website": "",
-      "startDate": "2024-06",
+      "startDate": "2023-06",
       "endDate": "Present",
       "summary": "Student assistant in the daily operations of Research Information Services",
       "highlights": [
@@ -78,7 +78,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "Co-Curricular Activities": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -109,8 +109,8 @@
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "awarder": "Undergraduate Research Opportunities Program, University of Hawai‘i",
+      "summary": "Researched Hawaiian stress assignments and syllables using edit distances and context free grammars under the direction of Professor Bjørn Kjos-Hanssen."
     },
     {
       "title": "First place",
