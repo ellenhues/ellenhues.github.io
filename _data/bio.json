@@ -4,11 +4,11 @@
     "label": "Student",
     "picture": "https://github.com/ellenhues.png",
     "email": "ellen84@hawaii.edu",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://ellenhues.github.io",
     "summary": "I am studying for a B.S. in Mathematics in the Mathematics Department at the University of Hawaii. I expect to graduate in Summer, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "ellenhues", "url": "http://github.com/ellenhues" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
     ]
   },
@@ -25,16 +25,18 @@
       "keywords": [ "Lean", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Software tools",
+      "keywords": [ "LaTex", "MATLAB", "Git/GitHub", "g++", "Excel" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Summer, 2024)",
+      "area": "Mathematics (expected Summer, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Information Computer Science (expected Summer, 2024)",
+      "studyType": "Minor",
+      "startDate": "2020-01",
       "endDate": "Present",
       "courses": [
       ]
