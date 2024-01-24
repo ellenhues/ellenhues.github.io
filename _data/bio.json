@@ -67,7 +67,7 @@
     {
       "company": "William S. Richardson Law Library",
       "position": "Law Library Services Representative III",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "http://archives.law.hawaii.edu/",
       "startDate": "2019-12",
       "endDate": "2021-10",
       "summary": "",
@@ -79,10 +79,10 @@
   ],
   "Co-Curricular Activities": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Math Club, University of Hawai‘i",
+      "website": "https://math.hawaii.edu/wordpress/undergraduate-club/",
+      "position": "Co-President",
+      "startDate": "2023-01",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
