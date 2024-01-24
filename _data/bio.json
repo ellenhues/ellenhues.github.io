@@ -40,6 +40,14 @@
       ]
     }
   ],
+    "grants": [
+    {
+      "title": "Context-free grammars for English and Hawaiian phonology",
+      "date": "2023",
+      "awarder": "Undergraduate Research Opportunities Program, University of Hawai‘i",
+      "summary": "Received a grant of $2,920. Researched Hawaiian stress assignments and syllables using edit distances and context free grammars under the direction of Professor Bjørn Kjos-Hanssen."
+    }
+  ],
   "work": [
             {
       "company": "University of Hawai‘i",
@@ -77,6 +85,7 @@
       ]
     }
   ],
+  
   "Co-Curricular Activities": [
     {
       "organization": "Math Club, University of Hawai‘i",
@@ -101,14 +110,6 @@
         "Member, IEEE Student Branch, 2014-Present",
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
-    }
-  ],
-  "grants": [
-    {
-      "title": "Context-free grammars for English and Hawaiian phonology",
-      "date": "2023",
-      "awarder": "Undergraduate Research Opportunities Program, University of Hawai‘i",
-      "summary": "Received a grant of $2,920. Researched Hawaiian stress assignments and syllables using edit distances and context free grammars under the direction of Professor Bjørn Kjos-Hanssen."
     }
   ],
   "references": [
